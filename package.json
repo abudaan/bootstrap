@@ -21,7 +21,7 @@
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
     "rxjs": "^6.5.5",
-    "three": "^0.117.1",
+    "three": "^0.125.0",
     "uniquid": "^1.1.4"
   },
   "devDependencies": {
